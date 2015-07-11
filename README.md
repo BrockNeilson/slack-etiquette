@@ -2,7 +2,7 @@
 DevMountain has a fairly large community of people who use Slack: mentors, teachers, guests, students, and past students. Members should be mindful of other people's involvement in the DevMountain Slack community. Many mentors and guests are in different time zones, and most students need their sleep when they can get it (see: [night owls](http://en.wikipedia.org/wiki/Night_owl_%28person%29) or [early birds](http://en.wikipedia.org/wiki/Lark_%28person%29)). Please be aware of your local time and other users' local time when you are sending a message that will notify other members of the message. Most users have phone and/or email notifications (@channel (see below) and direct message) turned on.
  
 #When Should I @Channel?
-Almost never. **Especially in the community channel.** Here are things to ask yourself before you send out a message using @channel:
+Almost never. **Especially in the community channels (lobby).** Here are things to ask yourself before you send out a message using @channel:
 * Is the building on fire? OR..
 * Is this message important to *everyone* in this channel?
 * Does this message directly impact *everyone* in this channel?
