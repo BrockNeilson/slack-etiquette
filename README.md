@@ -16,14 +16,14 @@ Almost never. **Especially in the community channels (lobby).** Here are things 
 4. Click "Channel notification preferences"
 5. Manage
  
-* **If you are a student**, it is recommended that you keep notifications turned on for 4 things: community, direct messages, your cohort channel (e.g. web-dm3 or ios3), and your mentor-group channel.
-* **If you are a mentor**, it is recommended that you keep notification turned on for community, direct messages, your cohort channel and your mentor channel.
+* **If you are a student**, it is recommended that you keep notifications turned on for 4 things: community (e.g. lobby), direct messages, your cohort channel (e.g. web-dm3 or ios3), and your mentor-group channel.
+* **If you are a mentor**, it is recommended that you keep notification turned on for community (e.g. lobby), direct messages, your cohort channel and your mentor channel.
  
  
 ##What are all of the channels for?
 * Lobby channel: code and community chat, important org-wide info. (Avoid using @channel unless everyone is affected)
-* Shipped: Announce when you ship software!
 * Cohort channels: things pertaining to your cohort. Assignments, assessments, announcements.
+* Shipped: Announce when you ship software
 * Other: The name and description will usually have more information on the purpose of the channel.
  
 ##Do I have to use Slack?
